@@ -1,4 +1,4 @@
-# ITS-ROUP14-CALCULATOR
+# ITS-GROUP14-CALCULATOR
 
 import java.awt.*;
 import java.awt.event.*;
